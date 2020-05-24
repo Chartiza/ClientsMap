@@ -10,11 +10,3 @@ As a result you have to have Html file with the map.
 ![This is Screen of Code results html page](./results/ResultsScreen.png)
 
 Enjoy!
-
-## Authors
-
-Kateryna Pantiukh
-
-## License
-
-This project is licensed under the MIT License - see the LICENSE.md file for details
